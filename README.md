@@ -35,6 +35,8 @@ AI大模型鉴赏
 
 [文言一心](https://yiyan.baidu.com/)【百度】
 
+[飞浆](https://www.paddlepaddle.org.cn/)【百度】
+
 [通义千问 测试版](https://tongyi.aliyun.com/)【阿里】
 
 [天工](https://tiangong.kunlun.com/)【昆仑万维】
@@ -45,7 +47,7 @@ AI大模型鉴赏
 
 [日日新SenseNova]()【商汤】
 
-[飞浆](https://www.paddlepaddle.org.cn/)
+
 
 <a href="#流行的AI工具"></a>
 ## 流行的AI工具 
