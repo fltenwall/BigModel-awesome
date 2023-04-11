@@ -128,25 +128,25 @@ AI大模型鉴赏
 <a href="#AI视频"></a>
 ### AI视频
 
-[Runaway]()
+[Runaway](https://runwayml.com/)
 
-[cascadeur]()
+[cascadeur](https://cascadeur.com/)
 
-[sybthesia]()
+[synthesia](https://www.synthesia.io)
 
-[Pollinations]()
+[Pollinations](https://pollinations.ai)
 
-[ZUBTITL]()
+[zubtitle](https://zubtitle.com/)
 
-[Munch]()
+[Munch](https://www.getmunch.com/)
 
-[Fliki]()
+[Fliki](https://fliki.ai/)
 
-[Peech]()
+[Peech](https://www.peech-ai.com/aboutus)
 
-[DreamFace]()
+[DreamFace](https://dreamfaceapp.com/)
 
-[D-ID]()
+[D-ID](https://www.d-id.com/text-to-video/)
 
 <a href="#AI办公"></a>
 ### AI办公
