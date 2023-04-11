@@ -49,7 +49,7 @@ AI大模型鉴赏
 <a href="#AI文本"></a>
 ### AI文本
 
-[chatGPT]()
+[chatGPT](https://openai.com/blog/chatgpt)
 
 [Notion AI]()
 
@@ -90,7 +90,9 @@ AI大模型鉴赏
 
 [dreamlike.art]()
 
-[文心一格 飞浆]()
+[文心一格](https://yige.baidu.com/)
+
+[飞浆](https://www.paddlepaddle.org.cn/)
 
 [Phygital+]()
 
