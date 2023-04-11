@@ -5,9 +5,9 @@ AI大模型鉴赏
 
 ## 目录
 
-#### <a href="#国外大模型"> 国外大模型</a>
+#### <a href="#国外通用大模型"> 国外通用大模型</a>
 
-#### <a href="#国内大模型"> 国内大模型</a>
+#### <a href="#国内通用大模型"> 国内通用大模型</a>
 
 #### <a href="#流行的AI工具"> 流行的AI工具</a>
 
@@ -25,11 +25,11 @@ AI大模型鉴赏
 
 ------------------------------------------------------
 
-<a href="#国外大模型"></a>
-## 国外大模型
+<a href="#国外通用大模型"></a>
+## 国外通用大模型
 
-<a href="#国内大模型"></a>
-## 国内大模型
+<a href="#国内通用大模型"></a>
+## 国内通用大模型
 
 [文言一心](https://yiyan.baidu.com/)【百度】
 
@@ -101,27 +101,29 @@ AI大模型鉴赏
 <a href="#AI音频"></a>
 ### AI音频
 
-[Brain.fm]()
+[Brain.fm](https://www.brain.fm/)
 
-[soundraw]()
+[soundraw](https://soundraw.io)
 
-[Endel]()
+[Hyperscore](https://newharmonyline.org/)
 
-[Riffusion]()
+[Endel](https://endel.io)
 
-[Papercup]()
+[Riffusion](https://www.riffusion.com)
 
-[LALAL AI]()
+[Papercup](https://www.papercup.com)
 
-[Murf]()
+[LALAL AI](https://www.lalal.ai)
 
-[PolyAI]()
+[Murf](https://murf.ai/)
 
-[voice mode]()
+[PolyAI](https://poly.ai)
 
-[Boomy]()
+[voice mode](https://www.voicemod.net)
 
-[Mubert]()
+[Boomy](https://boomy.com)
+
+[Mubert](https://mubert.com/)
 
 <a href="#AI视频"></a>
 ### AI视频
