@@ -74,29 +74,29 @@ AI大模型鉴赏
 <a href="#AI绘画"></a>
 ### AI绘画
 
-[Midjourney]()
+[Midjourney](https://www.midjourney.com/)
 
-[PhotorRoom]()
+[PhotorRoom](https://www.photoroom.com)
 
-[造梦师]()
+[Artbreeder](https://www.artbreeder.com)
 
-[ARC Lab]()
+[STOCKIMG.AI](https://stockimg.ai/)
 
-[Artbreeder]()
+[niji-journey](https://nijijourney.com/zh/)
 
-[STOCKIMG.AI]()
+[Getimg](https://getimg.ai/)
 
-[niji-journey]()
+[dreamlike.art](https://dreamlike.art/)
 
-[Getimg]()
+[Phygital+](https://phygital.plus/)
 
-[dreamlike.art]()
+[Beautiful.ai](https://www.beautiful.ai/)
+
+[造梦日记](https://printidea.art/)
+
+[ARC Lab](https://arc.tencent.com/)【腾讯】
 
 [文心一格](https://yige.baidu.com/)
-
-[Phygital+]()
-
-[Beautiful AI]()
 
 <a href="#AI音频"></a>
 ### AI音频
