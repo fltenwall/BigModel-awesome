@@ -43,6 +43,8 @@ AI大模型鉴赏
 
 [日日新SenseNova]()【商汤】
 
+[飞浆](https://www.paddlepaddle.org.cn/)
+
 <a href="#流行的AI工具"></a>
 ## 流行的AI工具 
 
@@ -51,23 +53,23 @@ AI大模型鉴赏
 
 [chatGPT](https://openai.com/blog/chatgpt)
 
-[Notion AI]()
+[Notion AI](https://www.notion.so/product/ai)
 
-[AI Data Sidekick]()
+[AI Data Sidekick](https://futuretools.link/sidekick)
 
-[Writesonic]()
+[Writesonic](https://writesonic.com/)
 
-[Copy.ai]()
+[Copy.ai](https://www.copy.ai/)
 
-[Character AI]()
+[Character AI](https://beta.character.ai/)
 
-[Firefiles]()
+[Firefiles](https://fireflies.ai/)
 
-[Jasper]()
+[Jasper](https://www.jasper.ai/)
 
-[Outplay]()
+[Outplay](https://outplayhq.com/)
 
-[Cowriter]()
+[Cowriter](https://quillbot.com/)
 
 <a href="#AI绘画"></a>
 ### AI绘画
@@ -91,8 +93,6 @@ AI大模型鉴赏
 [dreamlike.art]()
 
 [文心一格](https://yige.baidu.com/)
-
-[飞浆](https://www.paddlepaddle.org.cn/)
 
 [Phygital+]()
 
