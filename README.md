@@ -28,6 +28,8 @@ AI大模型鉴赏
 <a href="#国外通用大模型"></a>
 ## 国外通用大模型
 
+[chatGPT](https://openai.com/blog/chatgpt)
+
 <a href="#国内通用大模型"></a>
 ## 国内通用大模型
 
