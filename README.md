@@ -31,6 +31,8 @@ AI大模型鉴赏🤥，欢迎👏🏻补充
 
 [chatGPT](https://openai.com/blog/chatgpt)
 
+[Auto-GPT](https://github.com/Torantulino/Auto-GPT)
+
 <a href="#国内通用大模型"></a>
 ## 国内通用大模型
 
